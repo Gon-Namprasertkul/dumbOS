@@ -41,5 +41,6 @@ install:
 uninstall:
 	rm -r /usr/local/bin/dumbOS
 clean:
+	rm -f dumbOS
 	rm -f $(OBJS) $(OUT)
 	rm apps/shellsay/shellsay
