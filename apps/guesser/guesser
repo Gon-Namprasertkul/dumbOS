@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+from random import randrange
+n = randrange(1000)
+while True:
+    v = int(input("Enter number: "))
+    if n == v:
+        print("You win!")
+        input("Press enter to close")
+        break
+    print("Too big" if (n<v) else "Too small")	
