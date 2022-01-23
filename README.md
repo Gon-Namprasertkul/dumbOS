@@ -6,13 +6,13 @@
 
 # Screenshot
 
-![screenshot](https://cdn.discordapp.com/attachments/874275632907968534/934660940878741504/Screen_Shot_2565-01-23_at_11.07.56.png)
+![screenshot](https://cdn.discordapp.com/attachments/876377090969178162/934820220114178148/Screen_Shot_2565-01-23_at_21.41.14.png)
 
 # Installation
 
 ```bash
-git clone https://github.com/ForesterBlox/stupidOS
-cd stupidOS
+git clone https://github.com/ForesterBlox/dumbOS
+cd dumbOS
 make
 make install
 ```
